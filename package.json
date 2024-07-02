@@ -1,0 +1,11 @@
+{
+  "name": "com.lumencat92.timecounter",
+  "version": "1.0.0",
+  "displayName": "TimeCounter",
+  "description": "It supports time counting with callback and session check functions.",
+  "unity": "2023.2",
+  "author": {
+    "name": "LumenCat",
+    "email": "LumenCat@gmail.com"
+  }
+}
